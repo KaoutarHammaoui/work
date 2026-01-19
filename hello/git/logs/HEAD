@@ -1,0 +1,36 @@
+0000000000000000000000000000000000000000 7244c9aaa4412720a2e435737caeeb856ae8aefe khammaou <kaoutarhammaoui2@gmail.com> 1768834390 +0100	commit (initial): hello.sh added
+7244c9aaa4412720a2e435737caeeb856ae8aefe d7891adb505204ad5f4005f8afe729ade2323a3e khammaou <kaoutarhammaoui2@gmail.com> 1768834440 +0100	commit: updating hello.sh
+d7891adb505204ad5f4005f8afe729ade2323a3e 63f9ddcd1cdfc0fbfc00b25ee94eaddc9ddfe2df khammaou <kaoutarhammaoui2@gmail.com> 1768834486 +0100	commit: editing the third line in hello.sh
+63f9ddcd1cdfc0fbfc00b25ee94eaddc9ddfe2df 2a082d277d1f5f87d56bf90efc60caf697687111 khammaou <kaoutarhammaoui2@gmail.com> 1768834529 +0100	commit: adding the 4 and 5 line in hello.sh
+2a082d277d1f5f87d56bf90efc60caf697687111 4736359ed2008cae9568842cb3f780ee560f2c26 khammaou <kaoutarhammaoui2@gmail.com> 1768834707 +0100	commit: adding author info
+4736359ed2008cae9568842cb3f780ee560f2c26 aa87bb16bd4376e76707cd28fa83eee0875442d1 khammaou <kaoutarhammaoui2@gmail.com> 1768834905 +0100	commit (amend): adding author info
+aa87bb16bd4376e76707cd28fa83eee0875442d1 c18b311f77a1515a909ebe637c6235c5b7dccf0d khammaou <kaoutarhammaoui2@gmail.com> 1768834942 +0100	commit: moving the hello.sh to the lib
+c18b311f77a1515a909ebe637c6235c5b7dccf0d 26bd55268b07293eb4108f748bde83c446ff9a4f khammaou <kaoutarhammaoui2@gmail.com> 1768835038 +0100	commit: adding the makefile
+26bd55268b07293eb4108f748bde83c446ff9a4f 26bd55268b07293eb4108f748bde83c446ff9a4f khammaou <kaoutarhammaoui2@gmail.com> 1768835090 +0100	checkout: moving from master to greet
+26bd55268b07293eb4108f748bde83c446ff9a4f d63afc55fd949f230cfd68daa332ccad17b5d089 khammaou <kaoutarhammaoui2@gmail.com> 1768835247 +0100	commit: adding the greeter.sh to the greet branch
+d63afc55fd949f230cfd68daa332ccad17b5d089 1f0a185cf761766fa464a4a8761377c2f1f66693 khammaou <kaoutarhammaoui2@gmail.com> 1768835283 +0100	commit: editing the hello.sh in the greet branch
+1f0a185cf761766fa464a4a8761377c2f1f66693 a55c9970bc4ceff84136b853378084fb2e03dacf khammaou <kaoutarhammaoui2@gmail.com> 1768835348 +0100	commit: editing the Makefile in the greet branch
+a55c9970bc4ceff84136b853378084fb2e03dacf 26bd55268b07293eb4108f748bde83c446ff9a4f khammaou <kaoutarhammaoui2@gmail.com> 1768835358 +0100	checkout: moving from greet to master
+26bd55268b07293eb4108f748bde83c446ff9a4f bfdd8287ee3c7d12f6f70b67cc745989886ccfd7 khammaou <kaoutarhammaoui2@gmail.com> 1768835439 +0100	commit: adding the README.md file in the main branch
+bfdd8287ee3c7d12f6f70b67cc745989886ccfd7 0000000000000000000000000000000000000000 khammaou <kaoutarhammaoui2@gmail.com> 1768835474 +0100	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 bfdd8287ee3c7d12f6f70b67cc745989886ccfd7 khammaou <kaoutarhammaoui2@gmail.com> 1768835474 +0100	Branch: renamed refs/heads/master to refs/heads/main
+bfdd8287ee3c7d12f6f70b67cc745989886ccfd7 a55c9970bc4ceff84136b853378084fb2e03dacf khammaou <kaoutarhammaoui2@gmail.com> 1768835492 +0100	checkout: moving from main to greet
+a55c9970bc4ceff84136b853378084fb2e03dacf 728a8e375d07b756b6ce461d8cc30e2937549d21 khammaou <kaoutarhammaoui2@gmail.com> 1768835565 +0100	merge main: Merge made by the 'ort' strategy.
+728a8e375d07b756b6ce461d8cc30e2937549d21 bfdd8287ee3c7d12f6f70b67cc745989886ccfd7 khammaou <kaoutarhammaoui2@gmail.com> 1768835595 +0100	checkout: moving from greet to main
+bfdd8287ee3c7d12f6f70b67cc745989886ccfd7 ee51cb7b78887e617b2a8113ce6b5f6ae96fb60f khammaou <kaoutarhammaoui2@gmail.com> 1768835778 +0100	commit: editing the hello.sh in the main branch
+ee51cb7b78887e617b2a8113ce6b5f6ae96fb60f 728a8e375d07b756b6ce461d8cc30e2937549d21 khammaou <kaoutarhammaoui2@gmail.com> 1768835797 +0100	checkout: moving from main to greet
+728a8e375d07b756b6ce461d8cc30e2937549d21 23f93f7b4df12b7545b76edccfc2a258761103e4 khammaou <kaoutarhammaoui2@gmail.com> 1768835905 +0100	commit (merge): resolve conflict
+23f93f7b4df12b7545b76edccfc2a258761103e4 728a8e375d07b756b6ce461d8cc30e2937549d21 khammaou <kaoutarhammaoui2@gmail.com> 1768836120 +0100	reset: moving to HEAD~1
+728a8e375d07b756b6ce461d8cc30e2937549d21 a55c9970bc4ceff84136b853378084fb2e03dacf khammaou <kaoutarhammaoui2@gmail.com> 1768836140 +0100	reset: moving to HEAD~1
+a55c9970bc4ceff84136b853378084fb2e03dacf ee51cb7b78887e617b2a8113ce6b5f6ae96fb60f khammaou <kaoutarhammaoui2@gmail.com> 1768836328 +0100	checkout: moving from greet to main
+ee51cb7b78887e617b2a8113ce6b5f6ae96fb60f ee51cb7b78887e617b2a8113ce6b5f6ae96fb60f khammaou <kaoutarhammaoui2@gmail.com> 1768836432 +0100	reset: moving to HEAD
+ee51cb7b78887e617b2a8113ce6b5f6ae96fb60f a55c9970bc4ceff84136b853378084fb2e03dacf khammaou <kaoutarhammaoui2@gmail.com> 1768836454 +0100	checkout: moving from main to greet
+a55c9970bc4ceff84136b853378084fb2e03dacf ee51cb7b78887e617b2a8113ce6b5f6ae96fb60f khammaou <kaoutarhammaoui2@gmail.com> 1768836503 +0100	rebase (start): checkout main
+ee51cb7b78887e617b2a8113ce6b5f6ae96fb60f 1529d3f5be96de20dd534e9dba718913320bcdc6 khammaou <kaoutarhammaoui2@gmail.com> 1768836503 +0100	rebase (pick): adding the greeter.sh to the greet branch
+1529d3f5be96de20dd534e9dba718913320bcdc6 27918ae0c6d3014f886f7e6be1fda00e2d232ca3 khammaou <kaoutarhammaoui2@gmail.com> 1768836646 +0100	commit: resolve the second conflict
+27918ae0c6d3014f886f7e6be1fda00e2d232ca3 069492f5a9e1782e1d08cdb0524d8f5d036b8af0 khammaou <kaoutarhammaoui2@gmail.com> 1768836687 +0100	rebase (continue) (pick): editing the Makefile in the greet branch
+069492f5a9e1782e1d08cdb0524d8f5d036b8af0 069492f5a9e1782e1d08cdb0524d8f5d036b8af0 khammaou <kaoutarhammaoui2@gmail.com> 1768836687 +0100	rebase (continue) (finish): returning to refs/heads/greet
+069492f5a9e1782e1d08cdb0524d8f5d036b8af0 ee51cb7b78887e617b2a8113ce6b5f6ae96fb60f khammaou <kaoutarhammaoui2@gmail.com> 1768836779 +0100	checkout: moving from greet to main
+ee51cb7b78887e617b2a8113ce6b5f6ae96fb60f 069492f5a9e1782e1d08cdb0524d8f5d036b8af0 khammaou <kaoutarhammaoui2@gmail.com> 1768836792 +0100	merge greet: Fast-forward
+069492f5a9e1782e1d08cdb0524d8f5d036b8af0 bf158f245d25d76c23751ec4a614f4518dd69c71 khammaou <kaoutarhammaoui2@gmail.com> 1768838165 +0100	commit: readme updated
+bf158f245d25d76c23751ec4a614f4518dd69c71 ca01e629c8415064b72c3cf74161a0405d6f850f khammaou <kaoutarhammaoui2@gmail.com> 1768838734 +0100	commit: readme updated in the shared remote

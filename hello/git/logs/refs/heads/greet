@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 26bd55268b07293eb4108f748bde83c446ff9a4f khammaou <kaoutarhammaoui2@gmail.com> 1768835090 +0100	branch: Created from HEAD
+26bd55268b07293eb4108f748bde83c446ff9a4f d63afc55fd949f230cfd68daa332ccad17b5d089 khammaou <kaoutarhammaoui2@gmail.com> 1768835247 +0100	commit: adding the greeter.sh to the greet branch
+d63afc55fd949f230cfd68daa332ccad17b5d089 1f0a185cf761766fa464a4a8761377c2f1f66693 khammaou <kaoutarhammaoui2@gmail.com> 1768835283 +0100	commit: editing the hello.sh in the greet branch
+1f0a185cf761766fa464a4a8761377c2f1f66693 a55c9970bc4ceff84136b853378084fb2e03dacf khammaou <kaoutarhammaoui2@gmail.com> 1768835348 +0100	commit: editing the Makefile in the greet branch
+a55c9970bc4ceff84136b853378084fb2e03dacf 728a8e375d07b756b6ce461d8cc30e2937549d21 khammaou <kaoutarhammaoui2@gmail.com> 1768835565 +0100	merge main: Merge made by the 'ort' strategy.
+728a8e375d07b756b6ce461d8cc30e2937549d21 23f93f7b4df12b7545b76edccfc2a258761103e4 khammaou <kaoutarhammaoui2@gmail.com> 1768835905 +0100	commit (merge): resolve conflict
+23f93f7b4df12b7545b76edccfc2a258761103e4 728a8e375d07b756b6ce461d8cc30e2937549d21 khammaou <kaoutarhammaoui2@gmail.com> 1768836120 +0100	reset: moving to HEAD~1
+728a8e375d07b756b6ce461d8cc30e2937549d21 a55c9970bc4ceff84136b853378084fb2e03dacf khammaou <kaoutarhammaoui2@gmail.com> 1768836140 +0100	reset: moving to HEAD~1
+a55c9970bc4ceff84136b853378084fb2e03dacf 069492f5a9e1782e1d08cdb0524d8f5d036b8af0 khammaou <kaoutarhammaoui2@gmail.com> 1768836687 +0100	rebase (continue) (finish): refs/heads/greet onto ee51cb7b78887e617b2a8113ce6b5f6ae96fb60f

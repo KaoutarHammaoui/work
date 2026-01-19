@@ -1,0 +1,17 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = /home/khammaou/Desktop/work/hello
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[branch "greet"]
+	remote = origin
+	merge = refs/heads/greet
+[remote "shared"]
+	url = ../hello.git
+	fetch = +refs/heads/*:refs/remotes/shared/*
