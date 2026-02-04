@@ -301,6 +301,9 @@ git remote add upstream https://github.com/KaoutarHammaoui/work.git
 git push upstream main
 git push upstream greet
 ```
+```bash
+git push origin --tags
+```
 
 ---
 
